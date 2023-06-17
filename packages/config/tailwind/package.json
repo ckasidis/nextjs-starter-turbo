@@ -1,0 +1,9 @@
+{
+  "name": "@demo/tailwind-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf node_modules"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@demo/prettier-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "main": "./index.cjs",
+  "scripts": {
+    "clean": "rimraf node_modules"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.0.2",
+    "prettier-plugin-tailwindcss": "^0.3.0"
+  }
+}
